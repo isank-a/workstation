@@ -1,0 +1,13 @@
+services:
+  redis-insight:
+    image: redislabs/redisinsight
+    container_name: redis-insight
+    restart: always
+    ports:
+      - "8001:8001"
+    volumes:
+      - "redisinsight-data:/var/lib/redis-insight/data"
+
+volumes:
+  redisinsight-data:
+    driver: local
