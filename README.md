@@ -150,7 +150,7 @@ I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. 
   brew install tree
   ```
 
-- [ag]() - My code searcher. I did not find anything better/faster
+- [ag](https://github.com/ggreer/the_silver_searcher) - My code searcher. I did not find anything better/faster
 
   ```shell
   brew install the_silver_searcher
