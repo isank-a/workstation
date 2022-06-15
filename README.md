@@ -21,7 +21,7 @@
 - Laptop - [MacBook Air (13-inch, M1, 2020)](https://www.apple.com/in/macbook-air/specs/)
 
   ```
-  OS - macOS Monterey 12.3
+  OS - macOS Monterey 12.4
   Memory - 16 GB
   Storage - 512 GB
   ```
