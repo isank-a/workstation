@@ -209,8 +209,6 @@ I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. 
   brew install --cask rectangle
   ```
 
-- [Dropbox](https://www.dropbox.com/install?trigger=_footer#downloaded) - Keeps all my important documents in-sync
-
 - [LastPass](https://www.lastpass.com/) - My password manager. I just use the Firefox extension and not the desktop application. _I've a premium plan_.
 
 ### Video Player
