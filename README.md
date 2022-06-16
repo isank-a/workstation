@@ -20,11 +20,9 @@
 
 - Laptop - [MacBook Air (13-inch, M1, 2020)](https://www.apple.com/in/macbook-air/specs/)
 
-  ```
-  OS - macOS Monterey 12.4
-  Memory - 16 GB
-  Storage - 512 GB
-  ```
+  > OS - macOS Monterey 12.4\
+    Memory - 16 GB\
+    Storage - 512 GB
 
 - External Display - [Dell U2720Q](https://www.amazon.in/gp/product/B086H26XWV/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
 
