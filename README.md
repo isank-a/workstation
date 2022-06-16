@@ -167,7 +167,7 @@ I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. 
 - [Firefox](https://www.mozilla.org/en-US/firefox/download/thanks/) - with extensions
   [Octotree](https://www.octotree.io/download),
   [LastPass](https://lastpass.com/lastpassffx/),
-  [Adblock Plus](https://addons.mozilla.org/en-US/firefox/addon/adblock-plus/)
+  [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox)
 
 ### Containerization
 
