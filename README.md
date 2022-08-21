@@ -143,6 +143,12 @@ I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. 
   brew install ncdu
   ```
 
+- [duf](https://github.com/muesli/duf) - an excellent replacement to [df](https://en.wikipedia.org/wiki/Df_(Unix))
+
+  ```shell
+  brew install duf
+  ```
+
 - [tree](<https://en.wikipedia.org/wiki/Tree_(command)>) - A recursive directory listing command
 
   ```shell
