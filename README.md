@@ -165,7 +165,7 @@ I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. 
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/download) - with extensions
   [Octotree](https://www.octotree.io/download),
-  [LastPass](https://lastpass.com/lastpassffx),
+  [BitWarden](https://bitwarden.com/),
   [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox)
 
 ### Containerization
@@ -180,7 +180,7 @@ I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. 
 
 ### Development
 
-- [IntelliJ IDEA Community](https://www.jetbrains.com/idea/download/#section=mac) - for Java
+- [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/#section=mac) - for Java
 
 - [Visual Studio Code](https://code.visualstudio.com/) - for Shell Scripts, Python, Go and JavaScript
 
@@ -208,7 +208,7 @@ I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. 
   brew install --cask rectangle
   ```
 
-- [LastPass](https://www.lastpass.com/) - My password manager. I just use the Firefox extension and not the desktop application. _I've a premium plan_.
+- [BitWarden](https://bitwarden.com/) - My password manager. I just use the Firefox extension and not the desktop application.
 
 ### Video Player
 
