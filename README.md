@@ -13,7 +13,7 @@
     - [Containerization](#containerization)
     - [Development](#development)
     - [Database Clients](#database-clients)
-    - [REST Client](#rest-client)
+    - [REST Client(s)](#rest-clients)
     - [General Productivity](#general-productivity)
     - [Video Player](#video-player)
 
@@ -200,9 +200,11 @@ I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. 
 
 - [Datagrip](https://www.jetbrains.com/datagrip/download/#section=mac) - for when I'm working on some big/serious SQL scripts, multiple DBs and etc.
 
-### REST Client
+### REST Client(s)
 
 - [Insomnia](https://insomnia.rest/) - I've nothing against Postman but Insomnia gives me a much better user experience.
+
+- [HTTPie](https://httpie.io/cli)
 
 ### General Productivity
 
