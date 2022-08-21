@@ -33,7 +33,7 @@
 
 ## Font
 
-I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. However, here are some other fonts that I like - [Fira Code](https://github.com/tonsky/FiraCode) & [Hasklig](https://github.com/i-tu/Hasklig)
+I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. However, I also like - [Fira Code](https://github.com/tonsky/FiraCode) & [Hasklig](https://github.com/i-tu/Hasklig)
 
 ## Tools
 
