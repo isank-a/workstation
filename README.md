@@ -75,15 +75,6 @@ I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. 
 
 `zsh` is my favorite which comes bundled with macOS and is the default shell. And, below are some tools that make `zsh` even better
 
-- [oh-my-zsh](https://ohmyz.sh/) - with plugins
-  `git`,
-  `docker`,
-  `kubectl`
-
-  ```shell
-  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-  ```
-
 - [starship](https://starship.rs/)
 
   ```shell
