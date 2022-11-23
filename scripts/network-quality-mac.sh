@@ -1,7 +1,7 @@
 #!/bin/sh
 
-# @author numerus30
-# @github https://github.com/numerus30
+# @author Isank
+# @github https://github.com/isank-a
 # works on macOS only
 
 networkQuality -v
