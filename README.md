@@ -8,7 +8,7 @@
     - [Terminal Emulator](#terminal-emulator)
     - [Version Control](#version-control)
     - [SDK Manager](#sdk-manager)
-    - [Shell & Command Line Utilities](#shell--command-line-utilities)
+    - [Shell \& Command Line Utilities](#shell--command-line-utilities)
     - [Web Browser](#web-browser)
     - [Containerization](#containerization)
     - [Development](#development)
@@ -198,8 +198,6 @@ I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. 
 - [HTTPie](https://httpie.io/cli)
 
 ### General Productivity
-
-- [Clipy](https://github.com/Clipy/Clipy) - A simple, no non-sense clipboard manager
 
 - [Rectangle](https://github.com/rxhanson/Rectangle) - I've never come across a better window manager for macOS
 
