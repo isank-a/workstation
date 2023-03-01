@@ -163,7 +163,8 @@ I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. 
 - [Firefox](https://www.mozilla.org/en-US/firefox/download) - with extensions
   [Octotree](https://www.octotree.io/download),
   [BitWarden](https://bitwarden.com/),
-  [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox)
+  [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox),
+  [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin)
 
 ### Containerization
 
