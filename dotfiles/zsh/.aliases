@@ -1,0 +1,4 @@
+alias reload='source ~/.zshrc'
+alias d='docker'
+alias cat='bat'
+alias k='kubectl'
