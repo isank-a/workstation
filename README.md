@@ -49,10 +49,10 @@ I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. 
 
 ### Terminal Emulator
 
-- [iTerm2](https://iterm2.com/)
+- [Alacritty](https://alacritty.org/)
 
   ```shell
-  brew install iterm2
+  brew install alacritty
   ```
 
 ### Version Control
