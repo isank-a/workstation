@@ -1,6 +1,8 @@
 source ~/.aliases
 source ~/.envs
 
+addToPathFront "$HOME/.scripts"
+
 eval "$(starship init zsh)"
 
 export SDKMAN_DIR="$HOME/.sdkman"
