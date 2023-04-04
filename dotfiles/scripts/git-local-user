@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # @author Isank
 # @github https://github.com/isank-a
