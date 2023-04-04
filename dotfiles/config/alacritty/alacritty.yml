@@ -1,0 +1,20 @@
+env:
+  TERM: alacritty
+import:
+  - ~/.config/alacritty/theme.yaml
+window:
+  dynamic_padding: true
+  startup_mode: Windowed
+  decorations: none
+  padding:
+    x: 5
+    y: 10 
+cursor:
+  style:
+    shape: Block 
+    blinking: On 
+font:
+  normal:
+    family: Monaco 
+  size: 12
+live_config_reload: true
