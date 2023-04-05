@@ -1,9 +1,9 @@
-env:
-  TERM: alacritty
 import:
   - ~/.config/alacritty/theme.yaml
+env:
+  TERM: alacritty
 window:
-  dynamic_padding: true
+  opacity: 1.0
   startup_mode: Windowed
   decorations: none
   padding:
