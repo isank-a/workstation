@@ -1,5 +1,6 @@
 source ~/.aliases
 source ~/.envs
+source ~/.kbs
 
 addToPathFront "$HOME/.scripts"
 
