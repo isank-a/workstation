@@ -1,14 +1,13 @@
 import:
   - ~/.config/alacritty/theme.yaml
-env:
-  TERM: alacritty
 window:
   opacity: 1.0
   startup_mode: Windowed
   decorations: none
+  dynamic_padding: true
   padding:
     x: 5
-    y: 10 
+    y: 5
 cursor:
   style:
     shape: Block 
