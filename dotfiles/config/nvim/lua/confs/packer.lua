@@ -26,6 +26,8 @@ return require('packer').startup(function(use)
   }
 
   use 'squarefrog/tomorrow-night.vim'
+  
+  use 'tpope/vim-fugitive'
 
   if packer_bootstrap then
     require('packer').sync()
