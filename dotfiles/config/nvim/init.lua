@@ -13,6 +13,4 @@ vim.opt.shiftwidth = 2
 
 vim.opt.swapfile = false
 
-vim.opt.termguicolors = true 
-
 vim.opt.scrolloff = 8
