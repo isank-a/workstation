@@ -14,10 +14,6 @@ local packer_bootstrap = ensure_packer()
 return require('packer').startup(function(use)
   use 'wbthomason/packer.nvim'
 
-  use 'BurntSushi/ripgrep'
-
-  use 'sharkdp/fd'
-
   use {
     'nvim-telescope/telescope.nvim', tag = '0.1.1',
     -- or                          , branch = '0.1.x',
