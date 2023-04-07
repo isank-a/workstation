@@ -25,11 +25,18 @@ return require('packer').startup(function(use)
     requires = { {'nvim-lua/plenary.nvim'} }
   }
 
-  use 'squarefrog/tomorrow-night.vim'
-  use 'ayu-theme/ayu-vim'
-  use {'morhetz/gruvbox', config = function() vim.cmd.colorscheme("gruvbox") end }
+  use {
+    'morhetz/gruvbox', 
+    config = function() vim.cmd.colorscheme("gruvbox") end 
+  }
 
   use 'tpope/vim-fugitive'
+  
+  use {
+    'hrsh7th/nvim-cmp',
+
+    requires = { {'neovim/nvim-lspconfig'} }
+  }
 
   if packer_bootstrap then
     require('packer').sync()
