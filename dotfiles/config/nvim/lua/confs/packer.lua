@@ -26,7 +26,9 @@ return require('packer').startup(function(use)
   }
 
   use 'squarefrog/tomorrow-night.vim'
-  
+  use 'ayu-theme/ayu-vim'
+  use {'morhetz/gruvbox', config = function() vim.cmd.colorscheme("gruvbox") end }
+
   use 'tpope/vim-fugitive'
 
   if packer_bootstrap then
