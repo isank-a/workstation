@@ -24,6 +24,8 @@ return require('packer').startup(function(use)
     requires = { {'nvim-lua/plenary.nvim'} }
   }
 
+  use 'squarefrog/tomorrow-night.vim'
+
   if packer_bootstrap then
     require('packer').sync()
   end
