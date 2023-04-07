@@ -6,7 +6,7 @@
 if [ $# -eq 1 ]; then
   selected=$1
 else
-  selected=$(find ~/hacks/* -type d -maxdepth 1 | fzf)
+  selected=$(find ~/hacks -type d -maxdepth 2 -not \( -path "*.git*" -o -path "*.DS_Store*" -o -path "*.idea*" -o -path "*.gradle*" -o -path "*.mvn*" -o -path "*.github*" \) | fzf)
 fi
 
 if [ -z "$selected" ]; then
