@@ -158,6 +158,12 @@ I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. 
   brew install gnu-sed
   ```
 
+- [stow](https://www.gnu.org/software/stow/) - GNU Stow is a symlink farm manager. I find it extremely useful for managing dotfiles.
+  
+  ```shell
+  brew install stow
+  ```
+
 ### Web Browser
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/download) - with extensions
