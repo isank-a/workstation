@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+# @author Isank
+# @github https://github.com/isank-a
+
+brew update && brew upgrade && brew cleanup -s
