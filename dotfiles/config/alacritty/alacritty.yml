@@ -5,9 +5,6 @@ window:
   startup_mode: Windowed
   decorations: none
   dynamic_padding: true
-  padding:
-    x: 5
-    y: 5
 cursor:
   style:
     shape: Block 
