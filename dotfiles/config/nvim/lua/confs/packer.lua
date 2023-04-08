@@ -14,6 +14,8 @@ local packer_bootstrap = ensure_packer()
 return require('packer').startup(function(use)
   use 'wbthomason/packer.nvim'
 
+  use 'ayu-theme/ayu-vim'
+
   use {
     'nvim-treesitter/nvim-treesitter',
     run = ':TSUpdate'
@@ -23,11 +25,6 @@ return require('packer').startup(function(use)
     'nvim-telescope/telescope.nvim', tag = '0.1.1',
     -- or                          , branch = '0.1.x',
     requires = { {'nvim-lua/plenary.nvim'} }
-  }
-
-  use {
-    'morhetz/gruvbox', 
-    config = function() vim.cmd.colorscheme("gruvbox") end 
   }
 
   use 'tpope/vim-fugitive'
