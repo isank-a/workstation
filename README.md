@@ -164,6 +164,12 @@ I use `Monaco` which comes bundled with macOS and is an Apple proprietary font. 
   brew install stow
   ```
 
+- [tmux](https://github.com/tmux/tmux) - This thing is just amazing as a terminal multiplexer.
+
+  ```shell
+  brew install tmux
+  ```
+
 ### Web Browser
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/download) - with extensions
