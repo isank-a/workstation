@@ -11,6 +11,7 @@ cursor:
     blinking: On 
 font:
   normal:
-    family: Monaco 
-  size: 12
+    family: Fira Code
+    style: Retina
+  size: 13
 live_config_reload: true
