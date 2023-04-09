@@ -7,7 +7,7 @@ window:
   dynamic_padding: true
 cursor:
   style:
-    shape: Block 
+    shape: Underline 
     blinking: On 
 font:
   normal:
