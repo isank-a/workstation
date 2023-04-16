@@ -33,11 +33,7 @@
 
 ## Font
 
-I use `Fira Code` which can be installed using `brew`
-
-```shell
-brew install font-fira-code
-```
+I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://github.com/ryanoasis/nerd-fonts)
 
 ## Tools
 
