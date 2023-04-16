@@ -49,7 +49,7 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
 
 ### Terminal Emulator
 
-- [Alacritty](https://alacritty.org/)
+- [Alacritty](https://alacritty.org/) - with [catppuccin](https://github.com/catppuccin/alacritty) theme
 
   ```shell
   brew install alacritty
@@ -190,6 +190,12 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
   ```
 
 ### Development
+
+- [Neovim](https://neovim.io) - with [catppuccin](https://github.com/catppuccin/nvim) theme
+  
+  ```shell
+  brew install nvim
+  ```
 
 - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/#section=mac) - for Java
 

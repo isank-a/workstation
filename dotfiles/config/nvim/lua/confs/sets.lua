@@ -22,4 +22,4 @@ vim.g.netrw_banner = 0
 vim.g.netrw_preview = 1
 vim.g.netrw_winsize = 85
 
-vim.cmd.colorscheme('ayu')
+vim.cmd.colorscheme('catppuccin-mocha')
