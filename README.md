@@ -172,9 +172,9 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
 
 - [fzf](https://github.com/junegunn/fzf) - A command-line based fuzzy finder
 
- ```shell
- brew install fzf
- ```
+  ```shell
+  brew install fzf
+  ```
 
 ### Web Browser
 
