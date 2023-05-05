@@ -170,6 +170,12 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
   brew install tmux
   ```
 
+- [fzf](https://github.com/junegunn/fzf) - A command-line based fuzzy finder
+
+ ```shell
+ brew install fzf
+ ```
+
 ### Web Browser
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/download) - with extensions
