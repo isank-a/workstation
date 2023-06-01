@@ -1,1 +1,4 @@
-bindkey -s ^f "tmuxer\n"
+bindkey -s '^f' "tmuxer\n"
+bindkey '3C' forward-word
+bindkey '3D' backward-word
+
