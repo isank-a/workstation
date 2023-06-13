@@ -3,11 +3,7 @@
 # @author Isank
 # @github https://github.com/isank-a
 
-PERSONAL_USERNAME="<username>"
-PERSONAL_EMAIL="<email>"
-
-COMPANY_USERNAME="<username>"
-COMPANY_EMAIL="<email>"
+source ~/.scripts/git-config
 
 configure_git() {
 
@@ -17,8 +13,8 @@ configure_git() {
 
 main() {
 
-    if [ "$1" = "company" ]; then
-        configure_git $COMPANY_USERNAME $COMPANY_EMAIL
+    if [ "$1" = "work" ]; then
+        configure_git $WORK_USERNAME $WORK_EMAIL
     fi
 
     if [ "$1" = "personal" ]; then
