@@ -174,6 +174,9 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
 
   ```shell
   brew install fzf
+
+  # To install useful key bindings and fuzzy completion:
+  $(brew --prefix)/opt/fzf/install
   ```
 
 ### Web Browser
