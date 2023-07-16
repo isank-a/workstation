@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+
+# @author Isank
+# @github https://github.com/isank-a
+
+# Dock - size and magnification
+defaults write com.apple.dock tilesize -int 21; killall Dock;
+defaults write com.apple.dock largesize -int 63; killall Dock;
