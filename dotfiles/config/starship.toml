@@ -8,6 +8,6 @@ $git_status
 $character"""
 
 [character]
-success_symbol = "[❯](red)[❯](yellow)[❯](green)"
-error_symbol = "[❯](red)[❯](red)[❯](red)"
+success_symbol = "[π](white)[::](green)"
+error_symbol = "[π](white)[::](red)"
 
