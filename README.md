@@ -87,7 +87,7 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
   brew install bat
   ```
 
-  configuration - because my muscle memory is so used to cat
+  configuration - because my muscle memory is so used to `cat`
 
   ```shell
   # add this to .zshrc
@@ -177,6 +177,19 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
 
   # To install useful key bindings and fuzzy completion:
   $(brew --prefix)/opt/fzf/install
+  ```
+
+- [exa](https://github.com/ogham/exa) - A modern replacement for the good old `ls`
+  
+  ```shell
+  brew install exa
+  ```
+  
+  configuration - because my muscle memory is so used to `ls`
+
+  ```shell
+  # add this to .zshrc
+  alias ls='exa --header --long --classify --sort size --colour=always'
   ```
 
 ### Web Browser
