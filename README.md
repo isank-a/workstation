@@ -73,7 +73,7 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
 
 ### Shell & Command Line Utilities
 
-`zsh` is my favorite which comes bundled with macOS and is the default shell. And, below are some tools that make `zsh` even better
+`zsh` is my favorite which comes bundled with macOS and is the default shell. And, below are some tools that make `zsh` even better.
 
 - [starship](https://starship.rs/)
 
@@ -81,7 +81,7 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
   brew install starship
   ```
 
-- [bat](https://github.com/sharkdp/bat) - They say it is a cat(1) clone with wings and I cannot agree more
+- [bat](https://github.com/sharkdp/bat) - They say it is a cat(1) clone with wings and I cannot agree more.
 
   ```shell
   brew install bat
@@ -94,13 +94,13 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
   alias cat='bat'
   ```
 
-- [jq](https://stedolan.github.io/jq/) - If you deal with [JSON](https://www.json.org/json-en.html), you just need this
+- [jq](https://stedolan.github.io/jq/) - If you deal with [JSON](https://www.json.org/json-en.html), you just need this.
 
   ```shell
   brew install jq
   ```
 
-- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Do you also hate what comes after you hit `git diff` on your terminal? You'll find excuses to do that after you install `diff-so-fancy`
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Do you also hate what comes after you hit `git diff` on your terminal? You'll find excuses to do that after you install `diff-so-fancy`.
 
   ```shell
   brew install diff-so-fancy
@@ -128,31 +128,31 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
   git config --global color.diff.whitespace "red reverse"
   ```
 
-- [ncdu](https://dev.yorhel.nl/ncdu) - Get detailed information of what is eating up your disk space right from your terminal
+- [ncdu](https://dev.yorhel.nl/ncdu) - Get detailed information of what is eating up your disk space right from your terminal.
 
   ```shell
   brew install ncdu
   ```
 
-- [duf](https://github.com/muesli/duf) - an excellent replacement to [df](https://en.wikipedia.org/wiki/Df_(Unix))
+- [duf](https://github.com/muesli/duf) - an excellent replacement to [df](https://en.wikipedia.org/wiki/Df_(Unix)).
 
   ```shell
   brew install duf
   ```
 
-- [tree](<https://en.wikipedia.org/wiki/Tree_(command)>) - A recursive directory listing command
+- [tree](<https://en.wikipedia.org/wiki/Tree_(command)>) - A recursive directory listing command.
 
   ```shell
   brew install tree
   ```
 
-- [ag](https://github.com/ggreer/the_silver_searcher) - My code searcher. I did not find anything better/faster
+- [ag](https://github.com/ggreer/the_silver_searcher) - My code searcher. I did not find anything better/faster.
 
   ```shell
   brew install the_silver_searcher
   ```
 
-- [gnu-sed](https://www.gnu.org/software/sed/) - I just do not like the default `sed` from macOS
+- [gnu-sed](https://www.gnu.org/software/sed/) - I just do not like the default `sed` from macOS.
 
   ```shell
   brew install gnu-sed
@@ -170,7 +170,7 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
   brew install tmux
   ```
 
-- [fzf](https://github.com/junegunn/fzf) - A command-line based fuzzy finder
+- [fzf](https://github.com/junegunn/fzf) - A command-line based fuzzy finder.
 
   ```shell
   brew install fzf
@@ -179,7 +179,7 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
   $(brew --prefix)/opt/fzf/install
   ```
 
-- [exa](https://github.com/ogham/exa) - A modern replacement for the good old `ls`
+- [exa](https://github.com/ogham/exa) - A modern replacement for the good old `ls`.
   
   ```shell
   brew install exa
@@ -190,6 +190,12 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
   ```shell
   # add this to .zshrc
   alias ls='exa --header --long --classify --sort size --colour=always'
+  ```
+
+- [direnv](https://direnv.net/) - A tool that can load or unload environment variables depending on the current directory.
+
+  ```shell
+  brew install direnv
   ```
 
 ### Web Browser
