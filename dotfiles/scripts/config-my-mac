@@ -3,13 +3,14 @@
 # @author Isank
 # @github https://github.com/isank-a
 
-# Dock - size and magnification
-defaults write com.apple.dock tilesize -int 21; killall Dock;
-defaults write com.apple.dock largesize -int 63; killall Dock;
+# Dock
+defaults write com.apple.dock tilesize -int 21;
+defaults write com.apple.dock largesize -int 63;
+killall Dock;
 
-# Keyboard - repeat
-defaults write -g InitialKeyRepeat -int 15
-defaults write -g KeyRepeat -int 2
+# Keyboard
+defaults write -g InitialKeyRepeat -int 15;
+defaults write -g KeyRepeat -int 2;
 
 # Screecapture
-defaults write com.apple.screencapture type JPG
+defaults write com.apple.screencapture type JPG;
