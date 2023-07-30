@@ -11,3 +11,5 @@ defaults write com.apple.dock largesize -int 63; killall Dock;
 defaults write -g InitialKeyRepeat -int 15
 defaults write -g KeyRepeat -int 2
 
+# Screecapture
+defaults write com.apple.screencapture type JPG
