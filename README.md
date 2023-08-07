@@ -63,6 +63,12 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
   brew install git
   ```
 
+  configuration
+
+  ```shell
+  git config --global init.defaultBranch main
+  ```
+
 ### SDK Manager
 
 - [SDKMAN!](https://sdkman.io/) for installing and maintaining different versions of Java, Groovy, Maven, Gradle and Spring Boot CLI
