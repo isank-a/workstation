@@ -33,7 +33,7 @@
 
 ## Font
 
-I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://github.com/ryanoasis/nerd-fonts)
+I use `Fira Cousine` which can be downloaded from [here](https://github.com/macduy/FiraCousine)
 
 ## Tools
 
