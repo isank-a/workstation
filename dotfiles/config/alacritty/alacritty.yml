@@ -14,4 +14,7 @@ font:
     family: Fira Cousine
     style: Regular
   size: 14
+  offset:
+    x: 0
+    y: 9
 live_config_reload: true
