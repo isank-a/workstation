@@ -49,10 +49,10 @@ I use `Cousine Nerd Font Mono` which can be downloaded from [here](https://githu
 
 ### Terminal Emulator
 
-- [Kitty](https://github.com/kovidgoyal/kitty)
+- [Alacritty](https://alacritty.org/)
 
   ```shell
-  brew install --cask kitty
+  brew install --cask alacritty
   ```
 
 ### Version Control
