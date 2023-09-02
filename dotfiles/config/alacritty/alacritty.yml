@@ -15,6 +15,6 @@ font:
     style: Regular
   size: 14
   offset:
-    x: 0
+    x: 1
     y: 9
 live_config_reload: true
