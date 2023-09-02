@@ -11,7 +11,7 @@ cursor:
     blinking: On 
 font:
   normal:
-    family: Cousine Nerd Font Mono
+    family: Fira Cousine
     style: Regular
   size: 13
 live_config_reload: true
