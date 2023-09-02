@@ -5,6 +5,9 @@ window:
   startup_mode: Windowed
   decorations: Full
   dynamic_padding: true
+  padding:
+    x: 3
+    y: 3
 cursor:
   style:
     shape: Underline 
