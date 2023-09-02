@@ -3,7 +3,7 @@ import:
 window:
   opacity: 1.0
   startup_mode: Windowed
-  decorations: none
+  decorations: Full
   dynamic_padding: true
 cursor:
   style:
