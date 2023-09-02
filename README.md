@@ -25,7 +25,7 @@
     Memory - 16 GB\
     Storage - 512 GB
 
-- External Display - [Dell U2720Q](https://www.amazon.in/gp/product/B086H26XWV/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1)
+- External Display - [Dell U2723QE](https://amzn.eu/d/2pwBlrw)
 
 - Keyboard - [Ducky One 2 SF](https://www.duckychannel.com.tw/en/Ducky-One2-SF)
 
