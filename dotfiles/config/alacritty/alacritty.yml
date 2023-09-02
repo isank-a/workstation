@@ -11,7 +11,8 @@ window:
 cursor:
   style:
     shape: Underline 
-    blinking: On 
+    blinking: On
+  unfocused_hollow: false
 font:
   normal:
     family: Fira Cousine
