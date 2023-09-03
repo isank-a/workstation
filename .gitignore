@@ -1,4 +1,5 @@
 *.DS_Store*
 **/plugin/packer_compiled.lua
+**/nvim/lazy-lock.json
 
 *.envrc*

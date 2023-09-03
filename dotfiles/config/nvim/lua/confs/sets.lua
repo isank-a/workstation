@@ -15,11 +15,9 @@ vim.opt.swapfile = false
 
 vim.opt.scrolloff = 8
 
-vim.opt.termguicolors = true
-
 vim.g.netrw_browse_split = 4
 vim.g.netrw_banner = 0
 vim.g.netrw_preview = 1
 vim.g.netrw_winsize = 85
 
-vim.cmd.colorscheme('catppuccin-mocha')
+vim.cmd.colorscheme('github_dark_high_contrast')
