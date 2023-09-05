@@ -3,4 +3,4 @@
 # @author Isank
 # @github https://github.com/isank-a
 
-brew update && brew upgrade && brew autoremove && brew cleanup -s
+brew update && brew upgrade && brew autoremove && brew cleanup -s && brew cleanup --prune=all
