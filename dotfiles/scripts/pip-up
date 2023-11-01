@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+
+# @author Isank
+# @github https://github.com/isank-a
+
+python3 -m pip list --outdated --format=json | jq '.[].name' | xargs -n1 python3 -m pip install --upgrade
