@@ -2,14 +2,14 @@ colors:
   # Default colors
   primary:
     background: '#0A0C10'
-    foreground: '#E6DBAC'
+    foreground: '#F0F8FF'
 
   # Cursor colors
   #
   # These will only be used when the `custom_cursor_colors` field is set to `true`.
   cursor:
     text: '#0A0C10'
-    cursor: '#E6DBAC'
+    cursor: '#F0F8FF'
 
   # Normal colors
   normal:
