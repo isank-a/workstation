@@ -219,7 +219,7 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
 
 ### Development
 
-- [Neovim](https://neovim.io) - with [catppuccin](https://github.com/catppuccin/nvim) theme
+- [Neovim](https://neovim.io) - with [GitHub Dark High Contrast](https://github.com/projekt0n/github-nvim-theme) theme
   
   ```shell
   brew install nvim
