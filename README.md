@@ -21,7 +21,7 @@
 
 - Laptop - [MacBook Air (13-inch, M1, 2020)](https://www.apple.com/in/macbook-air/specs/)
 
-  > OS - macOS Ventura 13.5.1\
+  > OS - macOS Ventura 14.1.1\
     Memory - 16 GB\
     Storage - 512 GB
 
