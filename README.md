@@ -146,10 +146,10 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
   brew install duf
   ```
 
-- [ag](https://github.com/ggreer/the_silver_searcher) - My code searcher. I did not find anything better/faster.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - my code searcher. I did not find anything better/faster.
 
   ```shell
-  brew install the_silver_searcher
+  brew install ripgrep
   ```
 
 - [gnu-sed](https://www.gnu.org/software/sed/) - I just do not like the default `sed` from macOS.
