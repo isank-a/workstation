@@ -146,12 +146,6 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
   brew install duf
   ```
 
-- [tree](<https://en.wikipedia.org/wiki/Tree_(command)>) - A recursive directory listing command.
-
-  ```shell
-  brew install tree
-  ```
-
 - [ag](https://github.com/ggreer/the_silver_searcher) - My code searcher. I did not find anything better/faster.
 
   ```shell
