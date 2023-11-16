@@ -134,10 +134,10 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
   git config --global color.diff.whitespace "red reverse"
   ```
 
-- [ncdu](https://dev.yorhel.nl/ncdu) - Get detailed information of what is eating up your disk space right from your terminal.
+- [dua-cli](https://github.com/Byron/dua-cli) - get detailed information of what is eating up your disk space right from your terminal.
 
   ```shell
-  brew install ncdu
+  brew install dua-cli
   ```
 
 - [duf](https://github.com/muesli/duf) - an excellent replacement to [df](https://en.wikipedia.org/wiki/Df_(Unix)).
