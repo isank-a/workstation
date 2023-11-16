@@ -241,7 +241,7 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
 
 ### REST Client(s)
 
-- [Insomnia](https://insomnia.rest/) - I've nothing against Postman but Insomnia gives me a much better user experience.
+- [Insomnium](https://github.com/ArchGPT/insomnium)
 
 - [HTTPie](https://httpie.io/cli)
 
