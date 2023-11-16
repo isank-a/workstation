@@ -9,4 +9,4 @@ stow -R -d dotfiles -t ~/.config config
 stow -R -d dotfiles -t ~/.scripts scripts
 stow -R -d dotfiles -t ~/ zsh
 stow -R -d dotfiles -t ~/ tmux
-
+stow --adopt -d dotfiles -t ~/Library/Application\ Support/Code/User code
