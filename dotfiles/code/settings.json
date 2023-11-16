@@ -1,0 +1,52 @@
+{
+    // workbench
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.tree.indent": 15,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.colorCustomizations": {
+        "tree.indentGuidesStroke": "#416CE4",
+        "terminal.foreground": "#F0F8FF",
+        "terminalCursor.foreground": "#F0F8FF",
+        "debugConsole.infoForeground": "#F0F8FF"
+    },
+    "workbench.fontAliasing": "auto",
+    // editor
+    "editor.renderLineHighlight": "none",
+    "editor.minimap.enabled": false,
+    "editor.cursorStyle": "underline",
+    "editor.fontFamily": "Fira Cousine",
+    "editor.fontSize": 14,
+    "editor.fontLigatures": false,
+    "editor.smoothScrolling": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.stickyScroll.enabled": true,
+    "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    // terminal integrated
+    "terminal.integrated.fontFamily": "Fira Cousine",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.lineHeight": 1.3,
+    "terminal.integrated.letterSpacing": 1,
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.profiles.osx": {
+        "tmux-custom": {
+            "path": "tmux",
+            "icon": "terminal",
+            "args": [
+                "new",
+                "-As",
+                "${workspaceFolderBasename}",
+                "-c",
+                "${workspaceFolder}"
+            ]
+        },
+    },
+    "terminal.integrated.defaultProfile.osx": "tmux-custom",
+    "terminal.integrated.gpuAcceleration": "on",
+    // debug console
+    "debug.console.fontFamily": "Fira Cousine",
+    "debug.console.fontSize": 14,
+    // telemetry
+    "telemetry.telemetryLevel": "off"
+}
