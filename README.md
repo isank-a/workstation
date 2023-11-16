@@ -27,7 +27,7 @@
 
 - External Display - [Dell U2723QE](https://amzn.eu/d/2pwBlrw)
 
-- Keyboard - [Ducky One 2 SF](https://www.duckychannel.com.tw/en/Ducky-One2-SF)
+- Keyboard - [Royal Kludge RKG68(RK837) V2 Wireless](https://www.meckeys.com/shop/keyboard/65-keyboard/royal-kludge-rkg68rk837wireless)
 
 - Mouse - [Logitech MX Master 3](https://www.logitech.com/en-in/products/mice/mx-master-3.910-005698.html)
 
