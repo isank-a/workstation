@@ -1,4 +1,6 @@
 {
+    // security
+    "security.workspace.trust.enabled": false,
     // workbench
     "workbench.startupEditor": "none",
     "workbench.colorTheme": "GitHub Dark Default",
