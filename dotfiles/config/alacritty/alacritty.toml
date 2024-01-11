@@ -1,0 +1,30 @@
+import = ["/Users/isank/.config/alacritty/theme.toml"]
+live_config_reload = true
+
+[cursor]
+unfocused_hollow = false
+
+[cursor.style]
+blinking = "On"
+shape = "Underline"
+
+[font]
+size = 14
+
+[font.normal]
+family = "Fira Cousine"
+style = "Regular"
+
+[font.offset]
+x = 1
+y = 9
+
+[window]
+decorations = "Full"
+dynamic_padding = true
+opacity = 1.0
+startup_mode = "Windowed"
+
+[window.padding]
+x = 3
+y = 3
