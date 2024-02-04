@@ -81,12 +81,6 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
 
 `zsh` is my favorite which comes bundled with macOS and is the default shell. And, below are some tools that make `zsh` even better.
 
-- [starship](https://starship.rs/)
-
-  ```shell
-  brew install starship
-  ```
-
 - [bat](https://github.com/sharkdp/bat) - They say it is a cat(1) clone with wings and I cannot agree more.
 
   ```shell

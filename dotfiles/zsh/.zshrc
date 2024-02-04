@@ -5,8 +5,6 @@ source ~/.opts
 
 addToPathFront "$HOME/.scripts"
 
-eval "$(starship init zsh)"
-
 eval "$(direnv hook zsh)"
 
 export SDKMAN_DIR="$HOME/.sdkman"
