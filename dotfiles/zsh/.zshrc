@@ -12,4 +12,6 @@ addToPathFront "$HOME/.scripts"
 
 PS1="%F{yellow}[%.]%f %F{green}—› %f"
 
+eval "$(direnv hook zsh)"
+
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh

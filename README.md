@@ -177,6 +177,12 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
   alias ls='exa --header --long --classify --sort size --colour=always'
   ```
 
+- [direnv](https://direnv.net/) - A tool that can load or unload environment variables depending on the current directory.
+
+  ```shell
+  brew install direnv
+  ```
+
 ### Web Browser
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/download) - with extensions
