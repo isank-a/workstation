@@ -7,7 +7,6 @@
     - [Package Manager](#package-manager)
     - [Terminal Emulator](#terminal-emulator)
     - [Version Control](#version-control)
-    - [SDK Manager](#sdk-manager)
     - [Shell \& Command Line Utilities](#shell--command-line-utilities)
     - [Web Browser](#web-browser)
     - [Containerization](#containerization)
@@ -67,14 +66,6 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
 
   ```shell
   git config --global init.defaultBranch main
-  ```
-
-### SDK Manager
-
-- [SDKMAN!](https://sdkman.io/) for installing and maintaining different versions of Java, Groovy, Maven, Gradle and Spring Boot CLI
-
-  ```shell
-  curl -s "https://get.sdkman.io" | bash
   ```
 
 ### Shell & Command Line Utilities
