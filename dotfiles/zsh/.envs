@@ -1,4 +1,4 @@
-export FZF_DEFAULT_OPTS='--prompt="❯ " --pointer=❯ --marker=❯ --border=sharp --height=~50%'
+export FZF_DEFAULT_OPTS='--prompt="—› " --pointer=—› --marker=—› --border=sharp --height=~50%'
 export SHELL_SESSIONS_DISABLE=1
 
 addToPath() {
