@@ -24,7 +24,7 @@ x = 0
 y = 3
 
 [window]
-decorations = "Full"
+decorations = "None"
 dynamic_padding = true
 opacity = 1.0
 startup_mode = "Windowed"
