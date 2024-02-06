@@ -10,7 +10,7 @@ addToPath "$BREW_HOME/bin"
 
 addToPathFront "$HOME/.scripts"
 
-PS1="%F{yellow}[%.]%f %F{green}—› %f"
+PS1="%B%F{yellow}[%.]%f %F{green}—› %f%b"
 
 eval "$(direnv hook zsh)"
 
