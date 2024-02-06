@@ -1,4 +1,3 @@
-import = ["/Users/isank/.config/alacritty/theme.toml"]
 live_config_reload = true
 
 [cursor]
