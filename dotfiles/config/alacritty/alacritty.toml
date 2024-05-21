@@ -8,7 +8,7 @@ blinking = "On"
 shape = "Underline"
 
 [font]
-size = 14
+size = 15
 
 [font.normal]
 family = "Fira Cousine"
@@ -23,7 +23,7 @@ x = 0
 y = 3
 
 [window]
-decorations = "None"
+decorations = "Full"
 dynamic_padding = true
 opacity = 1.0
 startup_mode = "Windowed"
