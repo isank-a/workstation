@@ -3,7 +3,7 @@
     "security.workspace.trust.enabled": false,
     // workbench
     "workbench.startupEditor": "none",
-    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.colorTheme": "Default Dark Modern",
     "workbench.tree.indent": 15,
     "workbench.tree.renderIndentGuides": "always",
     "workbench.colorCustomizations": {
@@ -50,5 +50,5 @@
     "debug.console.fontFamily": "Fira Cousine",
     "debug.console.fontSize": 15,
     // telemetry
-    "telemetry.telemetryLevel": "off"
+    "telemetry.telemetryLevel": "off",
 }
