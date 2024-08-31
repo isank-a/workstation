@@ -48,10 +48,10 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
 
 ### Terminal Emulator
 
-- [Alacritty](https://alacritty.org/)
+- [WezTerm](https://wezfurlong.org/wezterm/index.html)
 
   ```shell
-  brew install --cask alacritty
+  brew install --cask wezterm
   ```
 
 ### Version Control
@@ -144,7 +144,7 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
   ```
 
 - [stow](https://www.gnu.org/software/stow/) - GNU Stow is a symlink farm manager. I find it extremely useful for managing dotfiles.
-  
+
   ```shell
   brew install stow
   ```
@@ -165,11 +165,11 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
   ```
 
 - [lsd](https://github.com/lsd-rs/lsd) - A modern replacement for the good old `ls`.
-  
+
   ```shell
   brew install lsd
   ```
-  
+
   configuration - because my muscle memory is so used to `ls`
 
   ```shell
@@ -205,7 +205,7 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
 ### Development
 
 - [Neovim](https://neovim.io) - with [GitHub Dark High Contrast](https://github.com/projekt0n/github-nvim-theme) theme
-  
+
   ```shell
   brew install nvim
   ```
