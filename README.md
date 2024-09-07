@@ -204,12 +204,6 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
 
 ### Development
 
-- [Neovim](https://neovim.io) - with [GitHub Dark High Contrast](https://github.com/projekt0n/github-nvim-theme) theme
-
-  ```shell
-  brew install nvim
-  ```
-
 - [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/#section=mac) - for Java
 
 - [Visual Studio Code](https://code.visualstudio.com/) - for Shell Scripts, Python, Go and JavaScript
