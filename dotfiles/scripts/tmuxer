@@ -15,11 +15,11 @@ fi
 
 selected_name=$(basename "$selected" | tr . _)
 
-if [ -z $TMUX ]; then
-  tmux new -ADs $selected_name -c $selected
+if [ -z "$TMUX" ]; then
+  tmux new -ADs "$selected_name" -c "$selected"
   exit 0
 else
-  tmux switch-client -t $selected_name
+  tmux switch-client -t "$selected_name"
   exit 0
 fi
 
