@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+
+# @author Isank
+# @github https://github.com/isank-a
+
+# usage - ssh-keygen <name> <comment> <passphrase>
+# usage example - ssh-keygen workstation workstation@work secret123#
+
+ssh-keygen -q -t ed25519 -a 100 -o -f "$HOME/.ssh/$1" -C "$2" -N "$3"
