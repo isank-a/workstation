@@ -48,10 +48,10 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
 
 ### Terminal Emulator
 
-- [WezTerm](https://wezfurlong.org/wezterm/index.html)
+- [Ghostty](https://ghostty.org/)
 
   ```shell
-  brew install --cask wezterm
+  brew install ghostty
   ```
 
 ### Version Control
