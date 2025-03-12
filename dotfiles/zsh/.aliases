@@ -1,8 +1,10 @@
+alias python="$BREW_HOME/bin/python3"
+alias pip="$BREW_HOME/bin/python3 -m pip"
 alias reload='source ~/.zshrc'
 alias d='docker'
 alias cat='bat'
 alias k='kubectl'
-alias g='git'
+alias g="$BREW_HOME/bin/git"
 alias tf='terraform'
 alias idea='open -na "IntelliJ IDEA CE" --args "$@"'
-alias ls='lsd --header --long --classify --sort size --color always --icon never'
+alias ls='eza --long --binary --sort size --color always --classify always --icons never'
