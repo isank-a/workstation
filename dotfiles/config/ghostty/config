@@ -1,0 +1,7 @@
+shell-integration-features = no-cursor
+window-padding-balance     = true
+cursor-style               = block
+macos-icon                 = chalkboard
+theme                      = "Monokai Remastered"
+font-family                = "Cousine"
+font-size                  = 15
