@@ -3,10 +3,11 @@
 # @author Isank
 # @github https://github.com/isank-a
 
+mkdir -p ~/.config
 mkdir -p ~/.scripts
 
-stow -R -d dotfiles -t ~/.config config
-stow -R -d dotfiles -t ~/.scripts scripts
-stow -R -d dotfiles -t ~/ zsh
-stow -R -d dotfiles -t ~/ tmux
-stow --adopt -d dotfiles -t ~/Library/Application\ Support/Code/User code
+/opt/homebrew/bin/stow -R -d dotfiles -t ~/.config config
+/opt/homebrew/bin/stow -R -d dotfiles -t ~/.scripts scripts
+/opt/homebrew/bin/stow -R -d dotfiles -t ~/ zsh
+/opt/homebrew/bin/stow -R -d dotfiles -t ~/ tmux
+/opt/homebrew/bin/stow --adopt -d dotfiles -t ~/Library/Application\ Support/Code/User code
