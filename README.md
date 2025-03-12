@@ -164,19 +164,12 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
   $(brew --prefix)/opt/fzf/install
   ```
 
-- [lsd](https://github.com/lsd-rs/lsd) - A modern replacement for the good old `ls`.
+- [eza](https://github.com/eza-community/eza) - A modern replacement for the good old `ls`.
 
   ```shell
-  brew install lsd
+  brew install eza
   ```
-
-  configuration - because my muscle memory is so used to `ls`
-
-  ```shell
-  # add this to .zshrc
-  alias ls='lsd --header --long --classify --sort size --color always --icon never'
-  ```
-
+  
 - [direnv](https://direnv.net/) - A tool that can load or unload environment variables depending on the current directory.
 
   ```shell
