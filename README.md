@@ -181,7 +181,6 @@ I use `Cousine` which can be downloaded from [here](https://fonts.google.com/spe
 - [Firefox](https://www.mozilla.org/en-US/firefox/download) - with extensions
   [Octotree](https://www.octotree.io/download),
   [BitWarden](https://bitwarden.com/),
-  [DuckDuckGo Privacy Essentials](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox),
   [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin),
   [Decentraleyes](https://decentraleyes.org/)
 
