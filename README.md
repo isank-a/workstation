@@ -213,7 +213,7 @@ I use `Cousine` which can be downloaded from [here](https://fonts.google.com/spe
 
 ### REST Client(s)
 
-- [Insomnium](https://github.com/ArchGPT/insomnium)
+- [Bruno](https://www.usebruno.com)
 
 - [HTTPie](https://httpie.io/cli)
 
