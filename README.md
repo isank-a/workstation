@@ -32,7 +32,7 @@
 
 ## Font
 
-I use `Fira Cousine` which can be downloaded from [here](https://github.com/macduy/FiraCousine)
+I use `Cousine` which can be downloaded from [here](https://fonts.google.com/specimen/Cousine)
 
 ## Tools
 
