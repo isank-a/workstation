@@ -203,12 +203,6 @@ I use `Cousine` which can be downloaded from [here](https://fonts.google.com/spe
 
 ### Database Clients
 
-- [pgcli](https://www.pgcli.com/install) - for some quick connections & checks with my PostgreSQL clusters
-
-  ```shell
-  brew install pgcli
-  ```
-
 - [TablePlus](https://tableplus.com) - for when I'm working on some big/serious SQL scripts, multiple DBs and etc.
 
 ### REST Client(s)
