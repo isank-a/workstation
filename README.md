@@ -209,7 +209,7 @@ I use `Cousine` which can be downloaded from [here](https://fonts.google.com/spe
   brew install pgcli
   ```
 
-- [Datagrip](https://www.jetbrains.com/datagrip/download/#section=mac) - for when I'm working on some big/serious SQL scripts, multiple DBs and etc.
+- [TablePlus](https://tableplus.com) - for when I'm working on some big/serious SQL scripts, multiple DBs and etc.
 
 ### REST Client(s)
 
