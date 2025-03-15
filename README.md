@@ -170,10 +170,10 @@ I use `Fira Cousine` which can be downloaded from [here](https://github.com/macd
   brew install eza
   ```
   
-- [direnv](https://direnv.net/) - A tool that can load or unload environment variables depending on the current directory.
+- [mise](https://mise.jdx.dev/) - a tool that manages multiple runtimes, environment variables, and tasks.
 
   ```shell
-  brew install direnv
+  brew install mise
   ```
 
 ### Web Browser
