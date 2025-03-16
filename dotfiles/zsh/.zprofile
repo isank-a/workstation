@@ -1,4 +1,7 @@
-export JAVA_HOME="$HOME/.java/jdk/21"
-export MVN_HOME="$HOME/.java/maven"
-export GRADLE_HOME="$HOME/.java/gradle"
+export SHELL_SESSIONS_DISABLE=1
+
 export BREW_HOME="/opt/homebrew"
+
+export PATH=$PATH:"/opt/homebrew/bin"
+export PATH=$PATH:"$HOME/.scripts"
+

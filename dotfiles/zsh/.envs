@@ -1,15 +1,1 @@
-export FZF_DEFAULT_OPTS='--prompt="—› " --pointer=—› --marker=—› --border=sharp --height=~50%'
-export SHELL_SESSIONS_DISABLE=1
-export DIRENV_LOG_FORMAT=
-
-addToPath() {
-  if [[ "$PATH" != *"$1"* ]]; then
-    export PATH=$PATH:$1
-  fi
-}
-
-addToPathFront() {
-  if [[ "$PATH" != *"$1"* ]]; then
-    export PATH=$1:$PATH
-  fi
-}
+export FZF_DEFAULT_OPTS='--prompt="π " --pointer=π --marker=π --border=sharp --height=~50%'
