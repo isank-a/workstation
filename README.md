@@ -91,10 +91,10 @@ I use `Cousine` which can be downloaded from [here](https://fonts.google.com/spe
   brew install jq
   ```
 
-- [dua-cli](https://github.com/Byron/dua-cli) - get detailed information of what is eating up your disk space right from your terminal.
+- [ncdu](https://dev.yorhel.nl/ncdu) - get detailed information of what is eating up your disk space right from your terminal.
 
   ```shell
-  brew install dua-cli
+  brew install ncdu
   ```
 
 - [duf](https://github.com/muesli/duf) - an excellent replacement to [df](https://en.wikipedia.org/wiki/Df_(Unix)).

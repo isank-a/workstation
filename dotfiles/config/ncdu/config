@@ -1,0 +1,11 @@
+# mode
+--extended
+
+# scan
+-t 3
+
+# interface
+-1
+--color dark
+--disable-delete
+--disable-shell
