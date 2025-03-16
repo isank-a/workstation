@@ -91,34 +91,6 @@ I use `Cousine` which can be downloaded from [here](https://fonts.google.com/spe
   brew install jq
   ```
 
-- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Do you also hate what comes after you hit `git diff` on your terminal? You'll find excuses to do that after you install `diff-so-fancy`.
-
-  ```shell
-  brew install diff-so-fancy
-  ```
-
-  configuration
-
-  ```shell
-  git config --global core.pager "diff-so-fancy | less --tabs=4 -RFX"
-  git config --global interactive.diffFilter "diff-so-fancy --patch"
-
-  git config --global color.ui true
-
-  git config --global color.diff-highlight.oldNormal    "red bold"
-  git config --global color.diff-highlight.oldHighlight "red bold 52"
-  git config --global color.diff-highlight.newNormal    "green bold"
-  git config --global color.diff-highlight.newHighlight "green bold 22"
-
-  git config --global color.diff.meta       "11"
-  git config --global color.diff.frag       "magenta bold"
-  git config --global color.diff.func       "146 bold"
-  git config --global color.diff.commit     "yellow bold"
-  git config --global color.diff.old        "red bold"
-  git config --global color.diff.new        "green bold"
-  git config --global color.diff.whitespace "red reverse"
-  ```
-
 - [dua-cli](https://github.com/Byron/dua-cli) - get detailed information of what is eating up your disk space right from your terminal.
 
   ```shell
