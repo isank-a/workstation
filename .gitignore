@@ -2,4 +2,4 @@
 **/plugin/packer_compiled.lua
 **/nvim/lazy-lock.json
 
-*.envrc*
+*mise.toml*
