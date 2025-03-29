@@ -5,6 +5,7 @@
 
 # Dock
 defaults write com.apple.dock orientation -string right;
+defaults write com.apple.dock magnification -bool true;
 defaults write com.apple.dock tilesize -int 21;
 defaults write com.apple.dock largesize -int 63;
 killall Dock;
