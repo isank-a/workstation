@@ -4,7 +4,7 @@
     // workbench
     "workbench.startupEditor": "none",
     "workbench.colorTheme": "Default Dark Modern",
-    "workbench.tree.indent": 15,
+    "workbench.tree.indent": 16,
     "workbench.tree.renderIndentGuides": "always",
     "workbench.colorCustomizations": {
         "tree.indentGuidesStroke": "#416CE4",
@@ -16,9 +16,9 @@
     // editor
     "editor.renderLineHighlight": "none",
     "editor.minimap.enabled": false,
-    "editor.cursorStyle": "underline",
-    "editor.fontFamily": "Fira Cousine",
-    "editor.fontSize": 15,
+    "editor.cursorStyle": "block",
+    "editor.fontFamily": "Cousine",
+    "editor.fontSize": 16,
     "editor.fontLigatures": false,
     "editor.smoothScrolling": true,
     "editor.cursorSmoothCaretAnimation": "on",
@@ -26,8 +26,8 @@
     "editor.formatOnSave": true,
     "editor.wordWrap": "on",
     // terminal integrated
-    "terminal.integrated.fontFamily": "Fira Cousine",
-    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.fontFamily": "Cousine",
+    "terminal.integrated.fontSize": 16,
     "terminal.integrated.lineHeight": 1.3,
     "terminal.integrated.letterSpacing": 1,
     "terminal.integrated.cursorStyle": "underline",
@@ -47,8 +47,8 @@
     "terminal.integrated.defaultProfile.osx": "tmux-custom",
     "terminal.integrated.gpuAcceleration": "on",
     // debug console
-    "debug.console.fontFamily": "Fira Cousine",
-    "debug.console.fontSize": 15,
+    "debug.console.fontFamily": "Cousine",
+    "debug.console.fontSize": 16,
     // telemetry
     "telemetry.telemetryLevel": "off",
 }
