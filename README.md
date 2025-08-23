@@ -14,7 +14,7 @@
     - [Database Clients](#database-clients)
     - [REST Client(s)](#rest-clients)
     - [General Productivity](#general-productivity)
-    - [Video Player](#video-player)
+    - [Media Player](#media-player)
 
 ## Current Setup
 
@@ -103,12 +103,6 @@ I use `Cousine` which can be downloaded from [here](https://fonts.google.com/spe
   brew install ncdu
   ```
 
-- [duf](https://github.com/muesli/duf) - an excellent replacement to [df](https://en.wikipedia.org/wiki/Df_(Unix)).
-
-  ```shell
-  brew install duf
-  ```
-
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - my code searcher. I did not find anything better/faster.
 
   ```shell
@@ -154,35 +148,40 @@ I use `Cousine` which can be downloaded from [here](https://fonts.google.com/spe
   brew install mise
   ```
 
+- [maccy](https://maccy.app/) - clipboard manager.
+
+  ```shell
+  brew install --cask maccy
+  ```
+
 ### Web Browser
 
 - [Firefox](https://www.mozilla.org/en-US/firefox/download) - with extensions
-  [Octotree](https://www.octotree.io/download),
   [BitWarden](https://bitwarden.com/),
   [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin),
   [Decentraleyes](https://decentraleyes.org/)
 
 ### Containerization
 
-- [docker](https://www.docker.com/get-started)
+- [Podman Desktop](https://podman-desktop.io/)
 
-- [dive](https://github.com/wagoodman/dive) - helps you take a deep dive into your docker images
+- [dive](https://github.com/wagoodman/dive) - deep dive into your docker images
 
   ```shell
   brew install dive
   ```
 
-### Development
+### IDEs
 
-- [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/#section=mac) - for Java
+- [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/#section=mac) - for Java, Python
 
-- [Visual Studio Code](https://code.visualstudio.com/) - for Shell Scripts, Python, Go and JavaScript
+- [Visual Studio Code](https://code.visualstudio.com/) - for Shell Scripts, Go and JavaScript
 
 ### Database Clients
 
-- [TablePlus](https://tableplus.com) - for when I'm working on some big/serious SQL scripts, multiple DBs and etc.
+- [TablePlus](https://tableplus.com)
 
-### REST Client(s)
+### HTTP Client(s)
 
 - [Bruno](https://www.usebruno.com)
 
@@ -190,14 +189,14 @@ I use `Cousine` which can be downloaded from [here](https://fonts.google.com/spe
 
 ### General Productivity
 
-- [Rectangle](https://github.com/rxhanson/Rectangle) - I've never come across a better window manager for macOS
-
+- [Rectangle](https://github.com/rxhanson/Rectangle) - window manager
+  
   ```shell
   brew install --cask rectangle
   ```
 
-- [BitWarden](https://bitwarden.com/) - My password manager. I just use the Firefox extension and not the desktop application.
+- [Bitwarden](https://bitwarden.com/) - password manager
 
-### Video Player
+### Media Player
 
 - [IINA](https://iina.io/) - This thing is powerful and minimal at the same time.
