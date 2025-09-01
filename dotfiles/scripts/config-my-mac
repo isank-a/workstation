@@ -18,5 +18,9 @@ killall Finder;
 defaults write -g InitialKeyRepeat -int 15;
 defaults write -g KeyRepeat -int 2;
 
+# Trackpad
+defaults write com.apple.AppleMultitouchTrackpad Clicking -bool true
+/System/Library/PrivateFrameworks/SystemAdministration.framework/Resources/activateSettings -u
+
 # Screecapture
 defaults write com.apple.screencapture type JPG;
