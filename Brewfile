@@ -1,3 +1,5 @@
+tap "koekeishiya/formulae"
+
 brew "git"
 brew "tmux"
 brew "ripgrep"
