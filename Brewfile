@@ -16,6 +16,7 @@ brew "qsv"
 brew "duckdb"
 brew "skhd"
 brew "lazygit"
+brew "uv"
 
 cask "bruno"
 cask "ghostty"
