@@ -17,6 +17,7 @@ brew "duckdb"
 brew "skhd"
 brew "lazygit"
 brew "uv"
+brew "just"
 
 cask "bruno"
 cask "ghostty"
